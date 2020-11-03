@@ -1,2 +1,3 @@
+include ':logging'
 include ':app'
 rootProject.name = "Share Buddy"
